@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "lessons": [
+      {
+        "id": 101,
+        "title": "Introduction",
+        "completed": true
+      },
+      {
+        "id": 102,
+        "title": "Variables & Data Types",
+        "completed": true
+      },
+      {
+        "id": 103,
+        "title": "Functions",
+        "completed": false
+      },
+      {
+        "id": 104,
+        "title": "Object Oriented Programming",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "lessons": [
+      {
+        "id": 201,
+        "title": "Introduction to Generative AI",
+        "completed": true
+      },
+      {
+        "id": 202,
+        "title": "Prompt Engineering",
+        "completed": true
+      },
+      {
+        "id": 203,
+        "title": "Large Language Models",
+        "completed": false
+      },
+      {
+        "id": 204,
+        "title": "AI Agents",
+        "completed": false
+      },
+      {
+        "id": 205,
+        "title": "Production AI",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "lessons": [
+      {
+        "id": 301,
+        "title": "HTML & CSS",
+        "completed": true
+      },
+      {
+        "id": 302,
+        "title": "JavaScript",
+        "completed": false
+      },
+      {
+        "id": 303,
+        "title": "Backend Development",
+        "completed": false
+      },
+      {
+        "id": 304,
+        "title": "Databases",
+        "completed": false
+      }
+    ]
+  }
+]
