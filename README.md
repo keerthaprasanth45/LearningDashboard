@@ -59,3 +59,23 @@ Covered behavior:
 - Repository: a successful fetch is cached, a failed fetch returns the cache, a failed fetch with an empty cache throws.
 - A later successful fetch keeps locally saved completion.
 - Toggling a lesson persists without another API call, and a failed save leaves the previous value on screen.
+
+## Screenshots
+<img width="1206" height="2622" alt="Simulator Screenshot - Clone 1 of iPhone 17 Pro - 2026-10-01 at 11 18 15" src="https://github.com/user-attachments/assets/74b39d51-3fda-4f69-b0a8-d08f598216b8" />
+<img width="1206" height="2622" alt="Simulator Screenshot - Clone 1 of iPhone 17 Pro - 2026-10-01 at 11 18 11" src="https://github.com/user-attachments/assets/7b5eb688-fb9a-4738-8a65-78ab0522c548" />
+<img width="1206" height="2622" alt="Simulator Screenshot - Clone 1 of iPhone 17 Pro - 2026-10-01 at 11 18 03" src="https://github.com/user-attachments/assets/4e26d67d-ff31-4b43-bbac-677cf9118aee" />
+<img width="1206" height="2622" alt="Simulator Screenshot - Clone 1 of iPhone 17 Pro - 2026-10-01 at 11 17 51" src="https://github.com/user-attachments/assets/48a47015-709e-438d-aff7-4652cba33154" />
+<img width="1206" height="2622" alt="Simulator Screenshot - Clone 1 of iPhone 17 Pro - 2026-10-01 at 11 17 47" src="https://github.com/user-attachments/assets/55548546-5991-40c7-b99f-1ad1745bd926" />
+<img width="1206" height="2622" alt="Simulator Screenshot - Clone 1 of iPhone 17 Pro - 2026-10-01 at 11 17 36" src="https://github.com/user-attachments/assets/55f71ba6-e777-4138-97d0-b85aa2b0e4e2" />
+
+## Video Reference
+
+
+https://github.com/user-attachments/assets/30bcaa7f-3bcb-4c24-b610-e45b2f52928f
+
+
+
+
+
+
+
