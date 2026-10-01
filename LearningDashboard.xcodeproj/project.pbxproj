@@ -29,34 +29,9 @@
 		3BCF7D47306D5C5D00DB0F2B /* LearningDashboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearningDashboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3BCF7D75306D6D4000DB0F2B /* Exceptions for "LearningDashboard" folder in "LearningDashboard" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Models/Course.swift,
-				Models/Lesson.swift,
-			);
-			target = 3BCF7D2D306D5C5C00DB0F2B /* LearningDashboard */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		3BCF7D76306D6D4700DB0F2B /* Exceptions for "LearningDashboard" folder in "Copy Bundle Resources" phase from "LearningDashboard" target */ = {
-			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
-			buildPhase = 3BCF7D2C306D5C5C00DB0F2B /* Resources */;
-			membershipExceptions = (
-				Models/Lesson.swift,
-			);
-		};
-/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3BCF7D30306D5C5C00DB0F2B /* LearningDashboard */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				3BCF7D75306D6D4000DB0F2B /* Exceptions for "LearningDashboard" folder in "LearningDashboard" target */,
-				3BCF7D76306D6D4700DB0F2B /* Exceptions for "LearningDashboard" folder in "Copy Bundle Resources" phase from "LearningDashboard" target */,
-			);
 			path = LearningDashboard;
 			sourceTree = "<group>";
 		};

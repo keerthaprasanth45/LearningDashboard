@@ -4,26 +4,10 @@
     "title": "Python Programming",
     "instructor": "John Smith",
     "lessons": [
-      {
-        "id": 101,
-        "title": "Introduction",
-        "completed": true
-      },
-      {
-        "id": 102,
-        "title": "Variables & Data Types",
-        "completed": true
-      },
-      {
-        "id": 103,
-        "title": "Functions",
-        "completed": false
-      },
-      {
-        "id": 104,
-        "title": "Object Oriented Programming",
-        "completed": false
-      }
+      { "id": 101, "title": "Introduction to Python", "completed": true },
+      { "id": 102, "title": "Variables & Data Types", "completed": true },
+      { "id": 103, "title": "Control Flow & Loops", "completed": true },
+      { "id": 104, "title": "Functions", "completed": false }
     ]
   },
   {
@@ -31,31 +15,12 @@
     "title": "Generative AI",
     "instructor": "Sarah Williams",
     "lessons": [
-      {
-        "id": 201,
-        "title": "Introduction to Generative AI",
-        "completed": true
-      },
-      {
-        "id": 202,
-        "title": "Prompt Engineering",
-        "completed": true
-      },
-      {
-        "id": 203,
-        "title": "Large Language Models",
-        "completed": false
-      },
-      {
-        "id": 204,
-        "title": "AI Agents",
-        "completed": false
-      },
-      {
-        "id": 205,
-        "title": "Production AI",
-        "completed": false
-      }
+      { "id": 201, "title": "Introduction to Generative AI", "completed": true },
+      { "id": 202, "title": "Prompt Engineering", "completed": true },
+      { "id": 203, "title": "Large Language Models", "completed": true },
+      { "id": 204, "title": "AI Agents", "completed": false },
+      { "id": 205, "title": "Retrieval-Augmented Generation", "completed": false },
+      { "id": 206, "title": "Production AI Applications", "completed": false }
     ]
   },
   {
@@ -63,26 +28,92 @@
     "title": "Full Stack Development",
     "instructor": "David Brown",
     "lessons": [
-      {
-        "id": 301,
-        "title": "HTML & CSS",
-        "completed": true
-      },
-      {
-        "id": 302,
-        "title": "JavaScript",
-        "completed": false
-      },
-      {
-        "id": 303,
-        "title": "Backend Development",
-        "completed": false
-      },
-      {
-        "id": 304,
-        "title": "Databases",
-        "completed": false
-      }
+      { "id": 301, "title": "HTML & CSS Fundamentals", "completed": true },
+      { "id": 302, "title": "JavaScript Essentials", "completed": true },
+      { "id": 303, "title": "React Fundamentals", "completed": false },
+      { "id": 304, "title": "REST API Development", "completed": false },
+      { "id": 305, "title": "Authentication & Authorization", "completed": false },
+    ]
+  },
+  {
+    "id": 4,
+    "title": "iOS App Development",
+    "instructor": "Emily Johnson",
+    "lessons": [
+      { "id": 401, "title": "Swift Fundamentals", "completed": true },
+      { "id": 402, "title": "SwiftUI Basics", "completed": true },
+      { "id": 403, "title": "State Management", "completed": true },
+      { "id": 404, "title": "Networking & REST APIs", "completed": false },
+      { "id": 405, "title": "MVVM Architecture", "completed": false },
+      { "id": 406, "title": "Testing & Debugging", "completed": false }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Cloud Computing",
+    "instructor": "Michael Anderson",
+    "lessons": [
+      { "id": 501, "title": "Introduction to Cloud Computing", "completed": true },
+      { "id": 502, "title": "Cloud Service Models", "completed": true }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Data Structures & Algorithms",
+    "instructor": "Robert Wilson",
+    "lessons": [
+      { "id": 601, "title": "Arrays & Strings", "completed": true },
+      { "id": 602, "title": "Stacks & Queues", "completed": true },
+      { "id": 603, "title": "Linked Lists", "completed": false },
+      { "id": 604, "title": "Trees & Graphs", "completed": false },
+      { "id": 605, "title": "Sorting Algorithms", "completed": false },
+      { "id": 606, "title": "Dynamic Programming", "completed": false }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Cybersecurity Fundamentals",
+    "instructor": "Sophia Martinez",
+    "lessons": [
+      { "id": 701, "title": "Introduction to Cybersecurity", "completed": true },
+      { "id": 703, "title": "Authentication & Access Control", "completed": true },
+      { "id": 705, "title": "Web Application Security", "completed": false },
+      { "id": 706, "title": "Security Monitoring", "completed": false }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Machine Learning",
+    "instructor": "Daniel Lee",
+    "lessons": [
+      { "id": 801, "title": "Introduction to Machine Learning", "completed": true },
+      { "id": 802, "title": "Data Preparation", "completed": true },
+      { "id": 803, "title": "Supervised Learning", "completed": false },
+      { "id": 805, "title": "Model Evaluation", "completed": false },
+      { "id": 806, "title": "Feature Engineering", "completed": false }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Software Architecture",
+    "instructor": "Olivia Taylor",
+    "lessons": [
+      { "id": 901, "title": "Architecture Fundamentals", "completed": true },
+      { "id": 902, "title": "SOLID Principles", "completed": true },
+      { "id": 906, "title": "Event-Driven Architecture", "completed": false }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "DevOps & CI/CD",
+    "instructor": "James Miller",
+    "lessons": [
+      { "id": 1001, "title": "Introduction to DevOps", "completed": true },
+      { "id": 1002, "title": "Git & Version Control", "completed": true },
+      { "id": 1003, "title": "Continuous Integration", "completed": true },
+      { "id": 1004, "title": "Docker Fundamentals", "completed": false },
+      { "id": 1005, "title": "CI/CD Pipelines", "completed": false },
+      { "id": 1006, "title": "Monitoring & Deployment", "completed": false }
     ]
   }
 ]
